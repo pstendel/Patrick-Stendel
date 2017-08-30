@@ -1,8 +1,11 @@
-# BIOS6623Class
-
-This folder contains the project materials for BIOS6623 minus datasets.  The datasets are not in this repository because you never know when data contains sensitive information. So, we want to minimize the risk that data could be accidentally shared. We have created folder templates for all projects. These provide one way of organizing work in an common framework.
-
-For this class, the datasets can be found on CANVAS.
-
-You might also be interested in the website for [BIOS6623](https://bios6623-ucd.github.oi).
+# BIOS6623Class 
+ 
+Hello,  
+ 
+This is Patricks Repository for BIOS6623. I work at CDPHE on MUGSI surveillance.  
+ 
+I tried to edit my README.md via the webbrowser but do not think it worked so I downloaded GitKraken onto a school computer. 
+This is being edited in notepad. 
+ 
+ 
 
